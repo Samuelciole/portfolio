@@ -11,8 +11,12 @@ const Sobre = () => (
       Estou constantemente aprimorando minhas habilidades através de cursos online, projetos pessoais e participação em comunidades de desenvolvedores. Meu objetivo é contribuir para projetos inovadores e fazer a diferença no mundo da tecnologia.
     </Paragrafo>
     <EstliloDiv>
-      <img src="https://github-readme-stats.vercel.app/api?username=Samuelciole&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"  alt="GitHub stats"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelciole&layout=compact&langs_count=7&theme=dracula"  alt="GitHub stats"/>
+      <img
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Samuelciole&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+        alt="GitHub stats"/>
+      <img
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Samuelciole&layout=compact&langs_count=7&theme=dracula"
+        alt="GitHub languages"/>
     </EstliloDiv>
     </section>
 )
